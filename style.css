@@ -60,7 +60,7 @@ body{
 
 }
 
-h1 {
+h2{
 	
     text-align: left;
     
@@ -76,7 +76,7 @@ h1 {
 
 }
 
-h2 {
+h3 {
    
     text-align: left;
     
@@ -122,4 +122,9 @@ p {
     border-bottom-left-radius:30px;
     
     margin-top: 5vh;
+}
+
+img {
+    margin-left: 10%;
+    max-width: 30vw;
 }
